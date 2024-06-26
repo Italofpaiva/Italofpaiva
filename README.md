@@ -1,5 +1,11 @@
-## Oi! Meu nome é Italo Feitosa Paiva
+<h2 align="left">My Stats</h2>
 
-- Hoje trabalho em FullStack
-- Estou estudando Java Web e Html/CSS
-- 😄 Pronouns: ele/dele
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Italofpaiva&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Italofpaiva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italofpaiva&radius=16&theme=coral&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
