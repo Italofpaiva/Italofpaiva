@@ -32,8 +32,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italofpaiva&radius=16&theme=coral&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italofpaiva&radius=16&theme=coral&area=true&order=5" 
+       height="300" 
+       style="border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" 
+       alt="activity-graph graph" />
+</p>
+
 
 ###
