@@ -18,6 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="fastapi logo" />
 
           "
 </div>
