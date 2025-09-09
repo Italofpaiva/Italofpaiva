@@ -33,7 +33,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Italofpaiva&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Italofpaiva&radius=16&theme=coral&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
